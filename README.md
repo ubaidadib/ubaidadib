@@ -1,18 +1,41 @@
-- 👋 Hi, I’m Ubaida Dib,
-   MSc. Information Engineering & Computer Science, Computer Engineer, Web Developer, Data Analyst, Entrepreneur, Business Management, Communication          Expert, Successful Team Leader.
-   
-expertise in different service industries, including web development, digital marketing, e-commerce, mobile applications, healthcare, and education.
-   
-passionate about helping individuals grow and achieve their personal goals.
+# 👋 Hello, I'm Ubaida Dib
 
-- 👀 I’m interested in Programming, especially Web & Mobile App Development.
+## 🚀 Innovator | 💻 Developer | 🌍 Sustainability Advocate
 
-- 📫 How to reach me:
-  - Portfolio: https://ubaidadib.com
-  - Email: ubaidadib76@gmail.com 
-  - Email: ubaidadib98@gmail.com 
-  - LinkedIn: https://www.linkedin.com/in/ubaida-dib-015019173/
-  - Facebook: https://www.facebook.com/ubaida.dib/
-  - Instagram: https://www.instagram.com/ubaida_m_dib/
+I'm a research assistant and developer at Hochschule Rhein-Waal University, passionate about driving innovation in environmental sustainability and education through cutting-edge digital solutions.
 
+### 🔭 Current Focus
+Leading the development of the "Transformers" app - an advanced platform revolutionizing waste management education through gamification and interactive learning.
 
+### 🏆 Key Achievements
+- 📱 Spearheaded the "Transformers" app, integrating advanced learning modules and interactive features
+- ♻️ Developed applications boosting recycling process efficiency
+- 🌐 Created engaging websites and web applications
+- 👨‍🏫 Mentored students in research methodologies
+- 🌍 Founded URM ENROLL, guiding 50+ students to study abroad
+
+### 🛠 Tech Stack
+Python | Java | PHP | Node.js | Web Development | AI/ML | Web3
+
+### 🎓 Education
+Master's in Information Engineering and Computer Sciences
+
+### 📊 Additional Skills
+- Meta Certified Digital Marketing Associate
+- Multilingual: Arabic, English, German (learning), Turkish (enthusiast)
+
+### 🔬 Research Interests
+AI | Machine Learning | Web3 Technologies | Bioinformatics
+
+### 🌱 I'm currently exploring
+Cutting-edge fields in tech with aspirations for a PhD
+
+### 💡 Open to Opportunities
+Environmental Tech | EdTech | Digital Innovation | AI/ML Research | Web3 Technologies | Bioinformatics | PhD positions
+
+### 📫 Let's Connect!
+[LinkedIn](Your LinkedIn URL) | [Portfolio](Your Portfolio URL)
+
+---
+
+*"Leveraging technology for positive change and innovative solutions in sustainability and education."*
