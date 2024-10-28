@@ -34,7 +34,7 @@ Cutting-edge fields in tech with aspirations for a PhD
 Environmental Tech | EdTech | Digital Innovation | AI/ML Research | Web3 Technologies | Bioinformatics | PhD positions
 
 ### 📫 Let's Connect!
-[LinkedIn](Your LinkedIn URL) | [Portfolio](Your Portfolio URL)
+[LinkedIn](https://www.linkedin.com/in/ubaidadib/) | [Portfolio](https://www.ubaidadib.com)
 
 ---
 
