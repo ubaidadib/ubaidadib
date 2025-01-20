@@ -12,7 +12,7 @@ Leading the development of the "Transformers" app - an advanced platform revolut
 - ♻️ Developed applications boosting recycling process efficiency
 - 🌐 Created engaging websites and web applications
 - 👨‍🏫 Mentored students in research methodologies
-- 🌍 Founded URM ENROLL, guiding 50+ students to study abroad
+- 🌍 Founded URM ENROLL Ltd, guiding 50+ students to study abroad
 
 ### 🛠 Tech Stack
 Python | Java | PHP | Node.js | Web Development | AI/ML | Web3
